@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6427279,
+          40.2981031
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Tröegs Brewing Company",
+        "address": "200 Hersheypark Dr  Hershey, PA 17033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8951666,
+          40.2757522
+        ]
+      },
+      "properties": {
+        "marker-symbol": "cafe",
+        "name": "Little Amps 1",
+        "address": "1836 Green St  Harrisburg, PA 17102"
+      }
+    },
+  ]
+}
