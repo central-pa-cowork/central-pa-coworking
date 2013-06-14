@@ -45,6 +45,21 @@
         "name": "Folklore Coffee & Co.",
         "address": "1 N Market St  Elizabethtown, PA 17022"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.307740,
+          40.037885
+        ]
+      },
+      "properties": {
+        "marker-symbol": "cafe",
+        "name": "Prince Street Cafe",
+        "address": "15 N Prince St, Lancaster, PA"
+      }
     }
   ]
 }
