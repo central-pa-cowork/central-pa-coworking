@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "features": [
-  {
+    {
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -30,6 +30,6 @@
         "name": "Little Amps 1",
         "address": "1836 Green St  Harrisburg, PA 17102"
       }
-    },
+    }
   ]
 }
