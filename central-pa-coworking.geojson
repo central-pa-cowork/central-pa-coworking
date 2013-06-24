@@ -75,6 +75,66 @@
         "name": "Prince Street Cafe",
         "address": "15 N Prince St, Lancaster, PA"
       }
+    },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5021405,
+          40.1095176
+        ]
+      },
+      "properties": {
+        "marker-symbol": "cafe",
+        "name": "Higher Grounds Cafe",
+        "address": "22 E Main St Mount Joy PA 17552"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.793334,
+          40.342837
+        ]
+      },
+      "properties": {
+        "marker-symbol": "cafe",
+        "name": "St Thomas Roasters",
+        "address": "5951 Linglestown Rd Harrisburg PA 17112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9204396,
+          40.2400357
+        ]
+      },
+      "properties": {
+        "marker-symbol": "cafe",
+        "name": "Cornerstone Coffeehouse",
+        "address": "2133 Market St Camp Hill PA 17011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.303873,
+          40.041185
+        ]
+      },
+      "properties": {
+        "marker-symbol": "cafe",
+        "name": "Square One Coffee",
+        "address": "145 N Duke St Lancaster PA 17602"
+      }
     }
   ]
 }
