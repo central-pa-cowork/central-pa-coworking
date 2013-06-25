@@ -90,6 +90,21 @@
         "name": "The Green Bean Roasting Co.",
         "address": "100 South Beaver Street, York, PA 17401, USA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.514749,
+          40.329336
+        ]
+      },
+      "properties": {
+        "marker-symbol": "cafe",
+        "name": "MJ's Coffee House",
+        "address": "36 E Main St  Annville, PA 17003"
+      }
     }
   ]
 }
