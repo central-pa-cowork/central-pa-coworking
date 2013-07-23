@@ -105,6 +105,51 @@
         "name": "MJ's Coffee House",
         "address": "36 E Main St  Annville, PA 17003"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89068379999999,
+          40.2722126
+        ]
+      },
+      "properties": {
+        "marker-symbol": "commercial",
+        "name": "St@rtUp HBG Coworking Space",
+        "address": "1519 North 3rd Street, Harrisburg PA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.30617,
+          40.04346
+        ]
+      },
+      "properties": {
+        "marker-symbol": "commercial",
+        "name": "The Candy Factory Coworking Space",
+        "address": "323 North Queen St Lancaster, PA 17603"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3059588,
+          40.0387356
+        ]
+      },
+      "properties": {
+        "marker-symbol": "commercial",
+        "name": "Ground Works Coworking Space",
+        "address": "30 North Queen St Lancaster, PA 17603"
+      }
     }
   ]
 }
