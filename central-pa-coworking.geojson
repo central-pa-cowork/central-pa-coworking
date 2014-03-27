@@ -13,7 +13,7 @@
       "properties": {
         "marker-symbol": "bar",
         "name": "Tröegs Brewing Company",
-        "address": "200 Hersheypark Dr  Hershey, PA 17033"
+        "address": "200 Hersheypark Dr, Hershey, PA 17033"
       }
     },
     {
@@ -28,7 +28,7 @@
       "properties": {
         "marker-symbol": "cafe",
         "name": "Little Amps 1",
-        "address": "1836 Green St  Harrisburg, PA 17102"
+        "address": "1836 Green St, Harrisburg, PA 17102"
       }
     },
     {
@@ -58,7 +58,7 @@
       "properties": {
         "marker-symbol": "cafe",
         "name": "Folklore Coffee & Co.",
-        "address": "1 N Market St  Elizabethtown, PA 17022"
+        "address": "1 N Market St, Elizabethtown, PA 17022"
       }
     },
     {
@@ -103,7 +103,7 @@
       "properties": {
         "marker-symbol": "cafe",
         "name": "MJ's Coffee House",
-        "address": "36 E Main St  Annville, PA 17003"
+        "address": "36 E Main St, Annville, PA 17003"
       }
     },
     {
@@ -133,7 +133,7 @@
       "properties": {
         "marker-symbol": "commercial",
         "name": "The Candy Factory Coworking Space",
-        "address": "323 North Queen St Lancaster, PA 17603"
+        "address": "323 North Queen St, Lancaster, PA 17603"
       }
     },
     {
@@ -148,8 +148,38 @@
       "properties": {
         "marker-symbol": "commercial",
         "name": "Ground Works Coworking Space",
-        "address": "30 North Queen St Lancaster, PA 17603"
+        "address": "30 North Queen St, Lancaster, PA 17603"
       }
+    }
+    {
+    	"type": "Feature",
+    	"geometry": {
+    		"type": "Point",
+    		"coordinates": [
+    			-76.920440,
+    			40.240036
+    		]
+    	},
+    	"properties": {
+    		"marker-symbol": "commercial",
+    		"name": "Cornerstone Coffeehouse",
+    		"address": "2133 Market St, Camp Hill, PA 17011"
+    	}
+    }
+    {
+    	"type": "Feature",
+    	"geometry": {
+    		"type": "Point",
+    		"coordinates": [
+    			-77.009824,
+    			40.247859
+    		]
+    	},
+    	"properties": {
+    		"marker-symbol": "commercial",
+    		"name": "Panera Bread",
+    		"address": "6416 Carlisle Pike, Mechanicsburg, PA 17050"
+    	}
     }
   ]
 }
