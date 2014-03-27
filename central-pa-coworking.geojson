@@ -8,178 +8,178 @@
         "coordinates": [
           -76.6427279,
           40.2981031
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Tröegs Brewing Company",
-        "address": "200 Hersheypark Dr, Hershey, PA 17033"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
+      	]
+ 			},
+ 			"properties": {
+ 				"marker-symbol": "bar",
+ 				"name": "Tröegs Brewing Company",
+ 				"address": "200 Hersheypark Dr, Hershey, PA 17033"
+ 			}
+ 		},
+ 		{
+ 			"type": "Feature",
+ 			"geometry": {
+	      "type": "Point",
+	 			"coordinates": [
           -76.8951666,
           40.2757522
         ]
-      },
-      "properties": {
-        "marker-symbol": "cafe",
-        "name": "Little Amps 1",
-        "address": "1836 Green St, Harrisburg, PA 17102"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.88690679999999,
+ 			},
+ 			"properties": {
+			 "marker-symbol": "cafe",
+			 "name": "Little Amps 1",
+			 "address": "1836 Green St, Harrisburg, PA 17102"
+ 			}
+ 		},
+ 		{
+			"type": "Feature",
+				"geometry": {
+				"type": "Point",
+			  "coordinates": [
+		      -76.88690679999999,
           40.2628635
         ]
-      },
-      "properties": {
-        "marker-symbol": "cafe",
-        "name": "Little Amps 2",
-        "address": "133 State Street, Harrisburg, PA 17101"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.605705,
-          40.151759
-        ]
-      },
-      "properties": {
-        "marker-symbol": "cafe",
-        "name": "Folklore Coffee & Co.",
-        "address": "1 N Market St, Elizabethtown, PA 17022"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.307740,
-          40.037885
-        ]
-      },
-      "properties": {
-        "marker-symbol": "cafe",
-        "name": "Prince Street Cafe",
-        "address": "15 N Prince St, Lancaster, PA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.7290574,
-          39.9603749
-        ]
-      },
-      "properties": {
-        "marker-symbol": "cafe",
-        "name": "The Green Bean Roasting Co.",
-        "address": "100 South Beaver Street, York, PA 17401, USA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.514749,
-          40.329336
-        ]
-      },
-      "properties": {
-        "marker-symbol": "cafe",
-        "name": "MJ's Coffee House",
-        "address": "36 E Main St, Annville, PA 17003"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.89068379999999,
-          40.2722126
-        ]
-      },
-      "properties": {
-        "marker-symbol": "commercial",
-        "name": "St@rtUp HBG Coworking Space",
-        "address": "1519 North 3rd Street, Harrisburg PA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.30617,
-          40.04346
-        ]
-      },
-      "properties": {
-        "marker-symbol": "commercial",
-        "name": "The Candy Factory Coworking Space",
-        "address": "323 North Queen St, Lancaster, PA 17603"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.3059588,
-          40.0387356
-        ]
-      },
-      "properties": {
-        "marker-symbol": "commercial",
-        "name": "Ground Works Coworking Space",
-        "address": "30 North Queen St, Lancaster, PA 17603"
-      }
-    }
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-    	"coordinates": [
-    	  -76.920440,
-    	  40.240036
-        ]
-      },
-      "properties": {
-        "marker-symbol": "commercial",
-        "name": "Cornerstone Coffeehouse",
-    	"address": "2133 Market St, Camp Hill, PA 17011"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-    	"coordinates": [
-    	  -77.009824,
-    	  40.247859
-    	]
-      },
-      "properties": {
-        "marker-symbol": "commercial",
-        "name": "Panera Bread",
-        "address": "6416 Carlisle Pike, Mechanicsburg, PA 17050"
-      }
-    },
-  ]
+				},
+				"properties": {
+				  "marker-symbol": "cafe",
+				  "name": "Little Amps 2",
+				  "address": "133 State Street, Harrisburg, PA 17101"
+	 		}
+	 	},
+	 	{
+	 		"type": "Feature",
+			"geometry": {
+			  "type": "Point",
+			  "coordinates": [
+	        -76.605705,
+	        40.151759
+	      ]
+	 		},
+	 		"properties": {
+			  "marker-symbol": "cafe",
+			  "name": "Folklore Coffee & Co.",
+			  "address": "1 N Market St, Elizabethtown, PA 17022"
+	 		}
+	 	},
+	 	{
+		 	"type": "Feature",
+		 	"geometry": {
+			 	"type": "Point",
+			 	"coordinates": [
+	        -76.307740,
+	        40.037885
+	      ]
+		  },
+		  "properties": {
+			  "marker-symbol": "cafe",
+			  "name": "Prince Street Cafe",
+			  "address": "15 N Prince St, Lancaster, PA"
+	 		}
+	  },
+	  {
+		  "type": "Feature",
+		  "geometry": {
+			  "type": "Point",
+			  "coordinates": [
+		      -76.7290574,
+		      39.9603749
+	    	]
+	   	},
+		  "properties": {
+			  "marker-symbol": "cafe",
+			  "name": "The Green Bean Roasting Co.",
+			  "address": "100 South Beaver Street, York, PA 17401, USA"
+	  	}
+	  },
+	  {
+		  "type": "Feature",
+		  "geometry": {
+			  "type": "Point",
+			 	"coordinates": [
+	        -76.514749,
+	        40.329336
+	      ]
+		  },
+		  "properties": {
+			  "marker-symbol": "cafe",
+			  "name": "MJ's Coffee House",
+			  "address": "36 E Main St, Annville, PA 17003"
+	  	}
+	  },
+	  {
+		  "type": "Feature",
+		  "geometry": {
+			  "type": "Point",
+			 	"coordinates": [
+	        -76.89068379999999,
+	        40.2722126
+	      ]
+		  },
+		  "properties": {
+			  "marker-symbol": "commercial",
+			  "name": "St@rtUp HBG Coworking Space",
+			  "address": "1519 North 3rd Street, Harrisburg PA"
+	  	}
+	  },
+	  {
+		  "type": "Feature",
+		  "geometry": {
+			  "type": "Point",
+			  "coordinates": [
+	        -76.30617,
+	        40.04346
+	      ]
+		  },
+		  "properties": {
+			  "marker-symbol": "commercial",
+			  "name": "The Candy Factory Coworking Space",
+			  "address": "323 North Queen St, Lancaster, PA 17603"
+	  	}
+	  },
+	  {
+		  "type": "Feature",
+		  "geometry": {
+			  "type": "Point",
+			  "coordinates": [
+	        -76.3059588,
+	        40.0387356
+	      ]
+	 		},
+	  	"properties": {
+			  "marker-symbol": "commercial",
+			  "name": "Ground Works Coworking Space",
+			  "address": "30 North Queen St, Lancaster, PA 17603"
+	  	}
+	  },
+	  {
+		  "type": "Feature",
+		  "geometry": {
+			  "type": "Point",
+			  "coordinates": [
+	        -76.920440,
+	        40.240036
+	      ]
+	    },
+		  "properties": {
+			  "marker-symbol": "commercial",
+			  "name": "Cornerstone Coffeehouse",
+		  	"address": "2133 Market St, Camp Hill, PA 17011"
+	  	}
+	  },
+	  {
+	    "type": "Feature",
+	  	"geometry": {
+	 			"type": "Point",
+	 			"coordinates": [
+	        -77.009824,
+	        40.247859
+	      ]
+	 		},
+	 		"properties": {
+			  "marker-symbol": "commercial",
+			  "name": "Panera Bread",
+			  "address": "6416 Carlisle Pike, Mechanicsburg, PA 17050"
+	 		}
+	 	}
+ 	]
 }
