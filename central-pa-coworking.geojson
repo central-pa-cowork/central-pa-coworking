@@ -152,34 +152,34 @@
       }
     }
     {
-    	"type": "Feature",
-    	"geometry": {
-    		"type": "Point",
-    		"coordinates": [
-    			-76.920440,
-    			40.240036
-    		]
-    	},
-    	"properties": {
-    		"marker-symbol": "commercial",
-    		"name": "Cornerstone Coffeehouse",
-    		"address": "2133 Market St, Camp Hill, PA 17011"
-    	}
-    }
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+    	"coordinates": [
+    	  -76.920440,
+    	  40.240036
+        ]
+      },
+      "properties": {
+        "marker-symbol": "commercial",
+        "name": "Cornerstone Coffeehouse",
+    	"address": "2133 Market St, Camp Hill, PA 17011"
+      }
+    },
     {
-    	"type": "Feature",
-    	"geometry": {
-    		"type": "Point",
-    		"coordinates": [
-    			-77.009824,
-    			40.247859
-    		]
-    	},
-    	"properties": {
-    		"marker-symbol": "commercial",
-    		"name": "Panera Bread",
-    		"address": "6416 Carlisle Pike, Mechanicsburg, PA 17050"
-    	}
-    }
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+    	"coordinates": [
+    	  -77.009824,
+    	  40.247859
+    	]
+      },
+      "properties": {
+        "marker-symbol": "commercial",
+        "name": "Panera Bread",
+        "address": "6416 Carlisle Pike, Mechanicsburg, PA 17050"
+      }
+    },
   ]
 }
